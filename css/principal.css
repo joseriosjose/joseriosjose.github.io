@@ -1,0 +1,97 @@
+body{
+    font-family:  'Neuton',"Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background: url(https://slipknot1.com/assets/img/No_Star.m4v);
+    font-size: 17px;
+}
+
+.contenedor{
+    background-color:black;
+    color:white;
+    width:1120px;
+    margin: 0px auto;
+}
+.menu{
+    background-color:black;
+    float: left;
+    padding-right: 10px;
+    width: 300px;
+}
+.articulo{
+    background-color:black;
+    float: right;
+    padding-left: 10px;
+    width: 800px;
+}
+.enlaces{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    word-spacing: 2px;
+    padding-left: 5px;
+    color: #000000;
+}
+.limenu{
+    list-style-image: url("../imagenes/iconof.png");
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+a:hover{
+    text-decoration: none;
+    color: #333;
+}
+
+.titulo{
+    font:18px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+strong {
+    font-weight: bold;
+    color: #EBEBEB;
+    font-size: 17px;
+}
+
+.subtitulo{
+    font: bold 16px;
+    text-transform: uppercase;
+    color:#EBEBEB;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+em {
+    font-style: italic;
+    color: #999;
+    font-size: 17px;
+    line-height: 20px;
+}
+p{
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #EBEBEB;
+    line-height: 22px;
+    margin-right: 30px;
+    margin-left: 20px;
+    text-align: justify;
+}
+a{
+    color: #AA1111;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+}
+.unlado{
+  padding-left: 20px;
+}
+.resaltado{
+    color: #ff9900;
+}
+.redondito{
+    border-radius: 5%;
+    background-color: white;
+    margin: 10px;
+}

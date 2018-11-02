@@ -1,0 +1,40 @@
+#Videofondo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+}
+.imagencentro{
+    padding-top: 10px;
+    display:block;
+    margin:auto;
+}
+.fondoblanco{
+    background-color: white;
+}
+
+.videosyoutube{
+    width: 640px;
+    height: 360px;
+    display:block;
+    margin:auto;
+    padding-bottom: 20px
+}
+/*creo que ya no la uso*/
+.imagencentro2{
+    padding:20px;
+    display:block;
+    margin:auto;
+}
+.centro{
+    text-align: center;
+    display:block;
+}
+.centrado{
+    text-align: center;
+}
+.bordes{
+    padding: 10px;
+}
